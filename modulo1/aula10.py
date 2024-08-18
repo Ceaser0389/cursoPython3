@@ -1,0 +1,8 @@
+# o + em str faz concatenação
+concatenacao = "A" + "B" + "C"
+print(concatenacao)
+
+a_dez_vezes = 'A' * 10   #  faz repetição 
+tres_vezes_luiz  = 3 * "luiz"
+print(a_dez_vezes)
+print(tres_vezes_luiz)
